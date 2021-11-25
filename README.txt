@@ -1,1 +1,2 @@
-binary netcat that can be used for exploration and to make a reverse connection with a rubber duck!!!
+Don't forget to create a repository and change the ip, leave netcat listening!!!
+Não se esqueça de criar um repositorio e mudar o ip, deixe o netcat ouvindo!!!
